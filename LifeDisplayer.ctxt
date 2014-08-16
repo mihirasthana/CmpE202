@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sound
+comment0.target=LifeDisplayer(greenfoot.GreenfootSound)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+comment5.params=text\ size
+comment5.target=void\ setText(java.lang.String,\ int)
+numComments=6

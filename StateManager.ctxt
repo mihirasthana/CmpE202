@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StateManager()
+comment1.params=
+comment1.target=StateManager\ getInstance()
+comment2.params=world
+comment2.target=void\ setNext(java.lang.String)
+comment3.params=
+comment3.target=void\ changeWorld()
+numComments=4

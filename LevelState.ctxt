@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=stateManager
+comment0.target=LevelState(StateManager)
+comment1.params=
+comment1.target=void\ changeWorld()
+numComments=2

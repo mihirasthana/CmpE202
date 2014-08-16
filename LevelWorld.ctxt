@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LevelWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ click()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

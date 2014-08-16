@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=O
+comment0.target=void\ attachObserver(IObserver)
+comment1.params=O
+comment1.target=void\ dettachObserver(IObserver)
+comment2.params=
+comment2.target=void\ notifyObserver()
+numComments=3

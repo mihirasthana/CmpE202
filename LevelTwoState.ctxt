@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LevelTwoState()
+comment1.params=
+comment1.target=java.util.ArrayList\ changeCharlie()
+comment2.params=
+comment2.target=java.util.ArrayList\ changeHurdles()
+comment3.params=
+comment3.target=void\ changeScoreDisplayer()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ changeBG()
+numComments=5
